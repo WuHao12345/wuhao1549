@@ -21,7 +21,11 @@
 
 }
 
+-(void)adabc
+{
+    NSLog(@"abc");
 
+}
 
 
 - (void)didReceiveMemoryWarning {
